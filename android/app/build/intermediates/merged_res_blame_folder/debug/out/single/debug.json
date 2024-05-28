@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_notifsm.xml.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\drawable-anydpi-v24\\notifsm.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_notifsm.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\drawable-xxhdpi\\notifsm.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_notifsm.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\drawable-mdpi\\notifsm.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notifsm.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\drawable-xhdpi\\notifsm.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_notifsm.png.flat",
+        "source": "C:\\Users\\abhis\\projects\\ProjectNameHere\\android\\app\\src\\main\\res\\drawable-hdpi\\notifsm.png"
+    }
+]
