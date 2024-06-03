@@ -13,6 +13,8 @@ import java.util.ArrayList;
 
 // react-native-moengage
 import com.moengage.react.MoEReactPackage;
+// react-native-moengage-inbox
+import com.moengage.react.inbox.MoengageInboxPackage;
 
 public class PackageList {
   private Application application;
@@ -58,7 +60,8 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
-      new MoEReactPackage()
+      new MoEReactPackage(),
+      new MoengageInboxPackage()
     ));
   }
 }

@@ -18,6 +18,8 @@ import {
   View,
 } from 'react-native';
 
+import MoEReactInbox from "react-native-moengage-inbox";
+
 
 
 const App=  ()  => {
@@ -27,9 +29,15 @@ const App=  ()  => {
     console.log("pushTokenGenerated", payload); 
   });
 
-  useEffect(()=>{  
+  useEffect(async()=>{  
   ReactMoE.initialize("OXTAVQZDWWAROL2ESF8FWE8G");
-  ReactMoE.setUserUniqueID("abhiold@xyz.com");
+  //MoEReactInbox.initialize("OXTAVQZDWWAROL2ESF8FWE8G");
+  
+//   ReactMoE.setUserUniqueID("abhiold@xyz.com");
+    var inboxData= await  MoEReactInbox.fetchAllMessages()
+
+ console.log("This is the inbox data======>", inboxData);
+  
   },[])
 
   return (

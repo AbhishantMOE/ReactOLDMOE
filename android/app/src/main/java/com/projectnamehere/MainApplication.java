@@ -4,7 +4,7 @@ import android.app.Application;
 import android.content.Context;
 
 import com.facebook.react.ReactApplication;
-import com.moengage.react.MoEReactPackage;
+import com.moengage.react.inbox.MoengageInboxPackage;
 import com.moengage.react.MoEReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.moengage.core.LogLevel;
@@ -16,9 +16,8 @@ import com.facebook.soloader.SoLoader;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Arrays;
 import java.util.List;
-import com.moengage.core.DataCenter;
 
-//import com.moengage.react.MoEReactPackage;
+
 import com.moengage.core.MoEngage;
 import com.moengage.core.config.LogConfig;
 import com.moengage.core.config.NotificationConfig;
@@ -36,7 +35,9 @@ public class MainApplication extends Application implements ReactApplication {
         protected List<ReactPackage> getPackages() {
             return Arrays.<ReactPackage>asList(
                     new MainReactPackage(),
-            new MoEReactPackage());
+            new MoengageInboxPackage(),
+            new MoEReactPackage()
+            );
         }
 
         @Override

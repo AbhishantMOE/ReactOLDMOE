@@ -209,6 +209,9 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:30.0.0')
     implementation 'com.google.firebase:firebase-messaging'
 
+    implementation project(':react-native-moengage-inbox')
+    implementation("com.moengage:inbox-core:1.0.00")
+
 
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
 
